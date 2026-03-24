@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> First</title>
+</head>
+<body></body>
+
+<h1>Jony </h1>
+<h2>sobre Jony</h2>
+<p>Me chamo João Pedro, tenho 34 anos, estudo ads na faculdade Senac e sou turismologo</p>
+   <ul>
+<li>Me formar em ads</li>
+<li>Ter um bom emprego</li>
+<li>dota2</li>
+ </ul>
+<a href="https://github.com/Johnjonyes"   >va para o link</a>
+
+
+
+<img src="tusk.png" alt="Descrição" width="100" height="100">
+
+</body>
+</html>  
